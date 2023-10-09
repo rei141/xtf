@@ -1,0 +1,3 @@
+nestedhvm = 1
+on_reboot="destroy"
+
